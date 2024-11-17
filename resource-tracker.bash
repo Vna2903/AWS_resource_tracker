@@ -18,5 +18,4 @@ aws ec2 describe-instances
 aws lambda list-functions
 
 #list of all IAM users
-
 aws iam list-users
